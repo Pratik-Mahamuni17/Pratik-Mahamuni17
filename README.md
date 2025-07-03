@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 I'm **Pratik Mahamuni**, a passionate **Full Stack Java Developer** skilled in building responsive and scalable web applications using modern technologies like **Angular**, **Spring Boot**, and **MySQL**.
 
-- 🎓 MCA Final Year | Internship @ Sunyu Infotech Pvt. Ltd.
+- 🎓 MCA Graduate | Internship @ Sunyu Infotech Pvt. Ltd.
 - 🛠️ Currently working on full-stack projects with Angular + Spring Boot
-- 📚 Learning DSA and System Design
 - 📫 Email me: pratik2002m@gmail.com
 
 ---
@@ -54,13 +53,13 @@ I'm **Pratik Mahamuni**, a passionate **Full Stack Java Developer** skilled in b
 - User & Admin roles, Cart functionality  
 - JWT-based Authentication & Authorization  
 - REST APIs built with Spring Boot  
-🔗 [View Repo](https://github.com/Pratik-Mahamuni17/ecommerce-platform)
+<!--🔗 [View Repo](https://github.com/Pratik-Mahamuni17/ecommerce-platform)-->
 
 ### 🏥 Hospital Management System  
 **Tech Stack:** Java, JSP, Servlet, MySQL  
 - Appointment booking, billing & role-based access  
 - Built using MVC design pattern  
-🔗 [View Repo](https://github.com/Pratik-Mahamuni17/hospital-management)
+<!--🔗 [View Repo](https://github.com/Pratik-Mahamuni17/hospital-management)-->
 
 ### 💼 Portfolio Website  
 **Tech Stack:** HTML, CSS, JS  
