@@ -80,7 +80,7 @@ I'm **Pratik Mahamuni**, a passionate **Full Stack Java Developer** skilled in b
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratik-mahamuni-50b7a1236/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](https://pratik-mahamuni17.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik2002m@gmail.com)
 
