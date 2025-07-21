@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8F00FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Pratik+Mahamuni+%F0%9F%91%8B;Full+Stack+Java+Developer+%7C+Angular+%7C+Spring+Boot;Building+responsive+web+apps+%F0%9F%9A%80;Let's+connect+and+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8F00FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Pratik+Mahamuni+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL+Developer;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1;Let's+build+clean+and+scalable+apps+together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,4 +79,3 @@
 <p align="center">
   🚀 *Let’s collaborate and build something amazing together!*
 </p>
-
