@@ -53,7 +53,7 @@
 - Fully responsive and clean design
 - GitHub project highlights and resume download
 
-🔗 [Live Demo](https://pratik-mahamuni17.github.io/portfolio)
+🔗 [Live Demo](https://magical-kitten-418319.netlify.app/)
 
 ---
 
