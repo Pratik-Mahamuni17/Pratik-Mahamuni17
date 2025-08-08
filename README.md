@@ -27,24 +27,27 @@
 
 ## 💼 Featured Projects
 
-### 🛒 **E-Commerce Web App**  
-> *Angular + Spring Boot + MySQL + JWT*
 
-- Role-based authentication (User/Admin)
-- Product management, Cart & Orders
-- RESTful APIs using Spring Boot  
-<!--🔗 [View Repository](https://github.com/Pratik-Mahamuni17/ecommerce-platform)-->
+### 🏥 **Hospital Management System**  
+*Mar '25 — May '25*  
+> Full-stack web application to efficiently manage patients, appointments, staff, billing, and medical records.  
+- Implemented role-based access control (Admin, Doctor, Receptionist) for secure, restricted system access  
+- Designed responsive, user-friendly UI using Bootstrap for seamless device compatibility  
+- Automated workflows such as appointment confirmations and billing generation to reduce manual effort and errors  
+- Backend powered by Java, JSP Servlets; MySQL database for robust data management  
+
+🔗 [View Repository](https://github.com/Pratik-Mahamuni17/hospital-management)  
 
 ---
 
-### 🏥 **Hospital Management System**  
-> *JSP + Servlet + MySQL*
+### 🛒 **E-Commerce Website**  
+*Jan '25 — Mar '25*  
+> Full-stack platform featuring product listings, shopping cart, user authentication, and order management.  
+- Developed RESTful APIs with Spring Boot for secure and scalable backend operations  
+- Designed dynamic, responsive frontend using Angular and Bootstrap to enhance user experience  
+- Used MySQL for reliable database storage ensuring data integrity and accessibility  
 
-- Manage appointments, billing & patients
-- MVC Design Pattern
-- Role-based access control  
-<!--🔗 [View Repository](https://github.com/Pratik-Mahamuni17/hospital-management)-->
-
+🔗 [View Repository](https://github.com/Pratik-Mahamuni17/ecommerce-platform)  
 ---
 
 ### 🌐 **Portfolio Website**  
