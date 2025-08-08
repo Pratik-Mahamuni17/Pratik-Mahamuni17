@@ -39,7 +39,7 @@
 - Automated workflows such as appointment confirmations and billing generation to reduce manual effort and errors  
 - Backend powered by Java, JSP Servlets; MySQL database for robust data management  
 
-🔗 [View Repository](https://github.com/Pratik-Mahamuni17/hospital-management)  
+🔗 [View Repository](https://github.com/Pratik-Mahamuni17/Hospital-Management-System)  
 
 ---
 
@@ -50,7 +50,7 @@
 - Designed dynamic, responsive frontend using Angular and Bootstrap to enhance user experience  
 - Used MySQL for reliable database storage ensuring data integrity and accessibility  
 
-🔗 [View Repository](https://github.com/Pratik-Mahamuni17/ecommerce-platform)  
+🔗 [View Repository](https://github.com/Pratik-Mahamuni17/e-commerce-website) 
 ---
 
 ### 🌐 **Portfolio Website**  
