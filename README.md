@@ -1,14 +1,9 @@
 <!-- Profile README -->
 
 <p align="center">
-  <strong style="font-family: 'Roboto Mono', monospace; font-size: 28px; color: #9b59b6;">
-    Hi, I am Pratik Mahamuni<br/>
-    Full Stack Java Developer<br/>
-    Java | Spring Boot | Angular | MySQL Developer<br/>
-    Turning ideas into real-world solutions<br/>
-    Let's build clean and scalable apps together
-  </strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&pause=1000&color=9b59b6&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Pratik+Mahamuni%0AFull+Stack+Java+Developer%0AJava+%7C+Spring+Boot+%7C+Angular+%7C+MySQL%0ATurning+ideas+into+real-world+solutions%0ALet%27s+build+clean+and+scalable+apps+together" alt="Typing SVG" />
 </p>
+
 
 
 
