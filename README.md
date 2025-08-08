@@ -1,8 +1,9 @@
 <!-- Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8F00FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Pratik+Mahamuni+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Angular+%7C+MySQL+Developer;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1;Let's+build+clean+and+scalable+apps+together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&pause=1000&color=9b59b6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Pratik+Mahamuni+%F0%9F%91%8B%0AJava+%7C+Spring+Boot+%7C+Angular+%7C+MySQL+Developer%0ATurning+ideas+into+real-world+solutions+%F0%9F%92%A1%0ALet's+build+clean+and+scalable+apps+together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
